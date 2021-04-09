@@ -1,0 +1,17 @@
+h1{
+	font-size: 50px ;
+	color: blue;
+}
+h2{
+	color: navy;
+}
+.change1{
+	color: orange;
+	font-size: 10px;
+}
+.change1.change2{
+	color: yellow;
+}
+h1 span{
+	text-transform: uppercase;
+}
